@@ -4,3 +4,7 @@ var x = 15
 var y = x+5
 
 console.log(y)
+
+document.getElementById("btn").click(()=>{
+    console.log("btn clicked")
+});
