@@ -7,4 +7,5 @@ console.log(y)
 
 document.getElementById("btn").click(()=>{
     console.log("btn clicked")
+    console.log("x+y="+(x+y))
 });
